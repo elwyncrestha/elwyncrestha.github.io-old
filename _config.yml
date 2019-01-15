@@ -19,7 +19,6 @@ author:
   address: Tahachal-13, Kathmandu, Nepal
   email: elwyncrestha@gmail.com
   link: https://elwyncrestha.github.io
-  weibo:
   github: elwyncrestha
   linkedin: elvin-shrestha-a559a6156
   facebook: elwyncrestha
@@ -29,35 +28,29 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Not Worked Yet
+      location: Kathmandu, Nepal
+      title: Student
+      started: 2019
+      duration: (2019 - Present)
+      description: I have not worked yet. In search for internship.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
+      organization: Softwarica College of IT & E-commerce (NCC Education)
+      location: Dillibazar, Kathmandu
+      degree: Level 5 Diploma in Computing
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2018
+      duration: (2018 - 2019)
+      description: I've been reading in this college as a second year student.
+    - education1:
+      organization: Softwarica College of IT & E-commerce (NCC Education)
+      location: Dillibazar, Kathmandu
+      degree: Level 4 Diploma in Computing
+      major: Software Engineering
+      started: 2017
+      duration: (2017 - 2018)
+      description: Obtained score of 76.375%. Coursework includes Designing and Developing Object Oriented Computer Program, Designing and Developing a Website, Computer Networks, Office Solution Developments, Databases, Skills for Computing, Computer System, Software Development Techniques
   languages:
     - language1:
       name: Nepali
