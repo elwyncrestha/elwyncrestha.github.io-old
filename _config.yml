@@ -77,7 +77,7 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 95%
     - skill2:
       name: Bootstrap
       percentage: 90%
@@ -93,6 +93,9 @@ author:
     - skill6:
       name: C#
       percentage: 70%
+    - skill7:
+      name: MySQL, SQL Server
+      percentage: 50%
   interests:
     - interest1:
       value: Interested in competitive programming.
