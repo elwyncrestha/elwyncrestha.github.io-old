@@ -50,7 +50,23 @@ author:
       major: Software Engineering
       started: 2017
       duration: (2017 - 2018)
-      description: Obtained score of 76.375%. Coursework includes Designing and Developing Object Oriented Computer Program, Designing and Developing a Website, Computer Networks, Office Solution Developments, Databases, Skills for Computing, Computer System, Software Development Techniques
+      description: Obtained score of 76.375%. Coursework includes Designing and Developing Object Oriented Computer Program, Designing and Developing a Website, Computer Networks, Office Solution Developments, Databases, Skills for Computing, Computer System, Software Development Techniques.
+    - education3:
+      organization: Trinity International College
+      location: Dillibazar, Kathmandu
+      degree: National Examinations Board (NEB)
+      major: Science Faculty with Computer Science
+      started: 2015
+      duration: (2015 - 2017)
+      description: Obtained score of aggregate 78.50%.
+    - education3:
+      organization: Next Generation Residential Academy
+      location: Gagalal Marg, Kathmandu
+      degree: School Leaving Certificate (SLC)
+      major: SLC
+      started: 2015
+      duration: (2003 - 2015)
+      description: Obtained score of 85.375%.
   languages:
     - language1:
       name: Nepali
