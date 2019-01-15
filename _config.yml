@@ -83,7 +83,7 @@ author:
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 30%
+      percentage: 40%
     - skill4:
       name: Java/Java EE
       percentage: 80%
@@ -96,6 +96,9 @@ author:
     - skill7:
       name: MySQL, SQL Server
       percentage: 50%
+    - skill8:
+      name: C
+      percentage: 45%
   interests:
     - interest1:
       value: Interested in competitive programming.
