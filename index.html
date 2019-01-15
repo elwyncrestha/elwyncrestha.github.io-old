@@ -253,6 +253,21 @@ layout: default
                     </ul>
                 </div>
             {% endif %}
+            {% if site.author.interest %}
+                <div class="deviter"></div>
+                <h3 class="title with-icon"><span class="fa fa-bookmark cat-title"></span> Language Skills</h3>
+                <div class="grid-block">
+                    <ul class="list-unstyled list-strip">
+                        {% for interest in site.author.interests %}
+                            {% if interest.value %}
+                                <li>
+                                    <i class="fa fa-check"></i> {{ interest.value }}
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fa fa-location-arrow cat-title"></span> Location</h3>
             <div class="grid-block">

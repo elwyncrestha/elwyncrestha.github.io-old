@@ -93,3 +93,12 @@ author:
     - skill6:
       name: C#
       percentage: 70%
+  interests:
+    - interest1:
+      value: Interest in competitive programming.
+    - interest2:
+      value: To gain the ability to work in fast-paced environment.
+    - interest3:
+      value: To understand real world problem and learn to deal with it.
+    - interest4:
+      value: To understand user’s psychology and how users react with different platforms.
