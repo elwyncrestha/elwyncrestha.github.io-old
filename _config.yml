@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Elvin Shrestha
+description: Elvin Shrestha's Curriculum Vitae
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://elwyncrestha.github.io
+url: https://elwyncrestha.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-132466874-1
 
 # Build settings
 markdown: kramdown
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Elvin Shrestha
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  address: Tahachal-13, Kathmandu, Nepal
+  email: elwyncrestha@
+  link: https://elwyncrestha.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: elwyncrestha
+  linkedin: elwyncrestha
+  twitter: elwyncrestha
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -59,14 +59,11 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Nepali
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
@@ -76,10 +73,13 @@ author:
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 30%
     - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
       name: Java/Java EE
-      percentage: 90%
+      percentage: 80%
+    - skill5:
+      name: PHP
+      percentage: 80%
+    - skill6:
+      name: C#
+      percentage: 70%
