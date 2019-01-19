@@ -1,15 +1,17 @@
 <div class="header">
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="col-sm-4">
+            <div class="col-sm-2">
                 <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar">
+            </div>
+            <div class="col-sm-5">
                 <h4>{{ site.author.name }}</h4>
                 <p>{{ site.author.title }}</p>
                 <p class="muted">{{ site.author.address }}</p>
                 <p class="muted"><a href="{{ site.author.blogLink }}">Check my GitHub Blog</a></p>
                 <div class="clearfix"></div>
             </div>
-            <div class="col-sm-4"><!-- visible-md-block visible-lg-block visible-sm-block -->
+            <div class="col-sm-5"><!-- visible-md-block visible-lg-block visible-sm-block -->
                 <p><i class="fa fa-envelope-o fa-fw"></i> {{ site.author.email }} </p>
                 <p><i class="fa fa-github fa-fw"></i><a href="//github.com/{{ site.author.github }}" target="_blank">  @{{ site.author.github }} </a></p>
                 <p><i class="fa fa-linkedin-square fa-fw"></i> <a href="//linkedin.com/in/{{ site.author.linkedin }}" target="_blank"> linkedin.com/in/{{ site.author.linkedin }} </a></p>
