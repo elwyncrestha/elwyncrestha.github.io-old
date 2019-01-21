@@ -84,13 +84,13 @@ author:
       percentage: 90%
     - skill3:
       name: Plain PHP
-      percentage: 85%
+      percentage: 80%
     - skill4:
       name: Java/Java EE
-      percentage: 80%
+      percentage: 70%
     - skill5:
       name: C#
-      percentage: 70%
+      percentage: 60%
     - skill6:
       name: MySQL, SQL Server
       percentage: 50%
