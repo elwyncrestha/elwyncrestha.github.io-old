@@ -83,20 +83,20 @@ author:
       name: Bootstrap
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 40%
+      name: Plain PHP
+      percentage: 85%
     - skill4:
       name: Java/Java EE
       percentage: 80%
     - skill5:
-      name: PHP
-      percentage: 90%
-    - skill6:
       name: C#
       percentage: 70%
-    - skill7:
+    - skill6:
       name: MySQL, SQL Server
       percentage: 50%
+    - skill7:
+      name: JavaScript
+      percentage: 45%
     - skill8:
       name: C
       percentage: 45%
