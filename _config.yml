@@ -90,7 +90,7 @@ author:
       percentage: 70%
     - skill5:
       name: C#
-      percentage: 60%
+      percentage: 55%
     - skill6:
       name: MySQL, SQL Server
       percentage: 50%
@@ -102,12 +102,14 @@ author:
       percentage: 45%
   interests:
     - interest1:
-      value: Interested in competitive programming.
+      value: Interested in both mobile app development and web development
     - interest2:
-      value: To gain the ability to work in fast-paced environment.
+      value: Interested in competitive programming.
     - interest3:
+      value: To gain the ability to work in fast-paced environment.
+    - interest4:
       value: To understand real world problem and learn to deal with it.
-    - interest4:
+    - interest5:
       value: To understand user’s psychology and how users react with different platforms.
-    - interest4:
+    - interest6:
       value: I like automating things, so possibly I'll start ML after few years.
