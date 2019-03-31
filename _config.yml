@@ -31,10 +31,17 @@ author:
     - work1:
       company: S.B Solutions Pvt Ltd
       location: Kathmandu, Nepal
-      title: Intern
+      title: Associate Developer (Part Timer)
       started: 2019
       duration: (2019 - Present)
-      description: Working as an intern, I've been learning and developing my skills rapidly. With exposure to banking environment, my domain knowledge in business is growing.
+      description: Working as Associate Developer (Part Timer), and learning lots of things every day.
+    - work2:
+      company: S.B Solutions Pvt Ltd
+      location: Kathmandu, Nepal
+      title: Intern
+      started: 2019
+      duration: (2019)
+      description: Worked as an intern, I'd been learning and developing my skills rapidly since then. With exposure to banking environment, my domain knowledge in business is growing.
   educationHistory:
     - education1:
       organization: Softwarica College of IT & E-commerce (NCC Education)
