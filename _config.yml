@@ -23,10 +23,7 @@ author:
   github: elwyncrestha
   linkedin: elvin-shrestha-a559a6156
   facebook: elwyncrestha
-  twitter: elwyncrestha
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: S.B Solutions Pvt Ltd
@@ -50,7 +47,7 @@ author:
       major: Software Engineering
       started: 2018
       duration: (2018 - 2019)
-      description: I've been reading in this college as a second year student.
+      description: I've been reading in this college as a second year student. Coursework includes "Analysis, Design and Implementation", "Dynamic Websites", "Information Systems Analysis", "Network Security and Cryptography", "Agile Development", "Computing Project", "Database Design and Development", "Professional Issues in IT".
     - education2:
       organization: Softwarica College of IT & E-commerce (NCC Education)
       location: Dillibazar, Kathmandu
@@ -58,7 +55,7 @@ author:
       major: Software Engineering
       started: 2017
       duration: (2017 - 2018)
-      description: Obtained score of 76.375%. Coursework includes Designing and Developing Object Oriented Computer Program, Designing and Developing a Website, Computer Networks, Office Solution Developments, Databases, Skills for Computing, Computer System, Software Development Techniques.
+      description: Obtained score of 76.375%. Coursework includes "Designing and Developing Object Oriented Computer Program", "Designing and Developing a Website", "Computer Networks", "Office Solution Developments", "Databases", "Skills for Computing", "Computer System", "Software Development Techniques".
     - education3:
       organization: Trinity International College
       location: Dillibazar, Kathmandu
