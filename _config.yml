@@ -82,28 +82,31 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 95%
+      percentage: 90%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 80%
     - skill3:
+      name: Java/Java EE
+      percentage: 75%
+    - skill4:
+      name: Angular
+      percentage: 40%
+    - skill5:
       name: Plain PHP
       percentage: 80%
-    - skill4:
-      name: Java/Java EE
-      percentage: 70%
-    - skill5:
-      name: C#
-      percentage: 55%
     - skill6:
-      name: MySQL, SQL Server
-      percentage: 50%
+      name: C#
+      percentage: 40%
     - skill7:
+      name: MySQL, SQL Server
+      percentage: 55%
+    - skill8:
       name: JavaScript
       percentage: 45%
-    - skill8:
+    - skill9:
       name: C
-      percentage: 45%
+      percentage: 40%
   interests:
     - interest1:
       value: Interested in both mobile app development and web development
