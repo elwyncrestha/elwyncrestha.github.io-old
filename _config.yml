@@ -23,10 +23,7 @@ author:
   github: elwyncrestha
   linkedin: elvin-shrestha-a559a6156
   facebook: elwyncrestha
-  twitter: elwyncrestha
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: S.B Solutions Pvt Ltd
@@ -50,7 +47,7 @@ author:
       major: Software Engineering
       started: 2018
       duration: (2018 - 2019)
-      description: I've been reading in this college as a second year student.
+      description: I've been reading in this college as a second year student. Coursework includes "Analysis, Design and Implementation", "Dynamic Websites", "Information Systems Analysis", "Network Security and Cryptography", "Agile Development", "Computing Project", "Database Design and Development", "Professional Issues in IT".
     - education2:
       organization: Softwarica College of IT & E-commerce (NCC Education)
       location: Dillibazar, Kathmandu
@@ -58,7 +55,7 @@ author:
       major: Software Engineering
       started: 2017
       duration: (2017 - 2018)
-      description: Obtained score of 76.375%. Coursework includes Designing and Developing Object Oriented Computer Program, Designing and Developing a Website, Computer Networks, Office Solution Developments, Databases, Skills for Computing, Computer System, Software Development Techniques.
+      description: Obtained score of 76.375%. Coursework includes "Designing and Developing Object Oriented Computer Program", "Designing and Developing a Website", "Computer Networks", "Office Solution Developments", "Databases", "Skills for Computing", "Computer System", "Software Development Techniques".
     - education3:
       organization: Trinity International College
       location: Dillibazar, Kathmandu
@@ -85,28 +82,31 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 95%
+      percentage: 90%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 80%
     - skill3:
+      name: Java/Java EE
+      percentage: 75%
+    - skill4:
+      name: Angular
+      percentage: 40%
+    - skill5:
       name: Plain PHP
       percentage: 80%
-    - skill4:
-      name: Java/Java EE
-      percentage: 70%
-    - skill5:
-      name: C#
-      percentage: 55%
     - skill6:
-      name: MySQL, SQL Server
-      percentage: 50%
+      name: C#
+      percentage: 40%
     - skill7:
+      name: MySQL, SQL Server
+      percentage: 55%
+    - skill8:
       name: JavaScript
       percentage: 45%
-    - skill8:
+    - skill9:
       name: C
-      percentage: 45%
+      percentage: 40%
   interests:
     - interest1:
       value: Interested in both mobile app development and web development
@@ -120,3 +120,8 @@ author:
       value: To understand user’s psychology and how users react with different platforms.
     - interest6:
       value: I like automating things, so possibly I'll start ML after few years.
+  siteDetails:
+    - siteDetail1:
+      value: All informations are verified by Elvin Shrestha.
+    - siteDetail2:
+      value: Last updated: April 20, 2019.
