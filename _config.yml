@@ -2,8 +2,8 @@
 title: Elvin Shrestha
 description: Elvin Shrestha's Curriculum Vitae
 favicon: /assets/img/avatar.JPG
-baseurl: https://elwyncrestha.github.io
-url: https://elwyncrestha.github.io
+baseurl: https://elwyncrestha.github.io-old
+url: https://elwyncrestha.github.io-old
 rss_url: /pages/atom.xml
 google_analytics: UA-132466874-1
 
@@ -21,7 +21,7 @@ author:
   email: elwyncrestha@gmail.com
   link: https://elwyncrestha.github.io
   github: elwyncrestha
-  linkedin: elvin-shrestha-a559a6156
+  linkedin: elwyncrestha
   facebook: elwyncrestha
   gavatar: /resumecard/assets/img/avatar.JPG
   workHistory:
